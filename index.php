@@ -7,3 +7,5 @@
  */
 
 echo  "hello git, i m there now";
+
+echo " I have made first push to git";
