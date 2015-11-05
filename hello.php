@@ -7,3 +7,8 @@
  */
 
   echo "hello";
+
+ function hello(){
+
+     echo "hello git";
+ }
